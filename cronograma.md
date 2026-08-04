@@ -10,4 +10,6 @@
 | **Quinta** | JavaScript | Números e Booleanos | 🟡 Em Progresso |
 | **Sexta** | ------------ | -------------- | 🟡 Em Progresso |
 
+### Durante a semana também irei organizar o GitHub e commitar alguns códigos de bimestres passados, tanto de estudos pessoais quanto de estudos de materias da faculdade.
+
 </div>
