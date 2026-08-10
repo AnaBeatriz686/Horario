@@ -4,7 +4,7 @@
 
 | Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
 | :---: | :---: | :---: | :---: |
-| **Segunda** | Banco de Dados | Árvores B+ | 🟡 Em andamento |
+| **Segunda** | Banco de Dados | Árvores B+ (atividade) | 🟢 Concluído|
 | **Terça** | JavaScript | Números e Booleanos | 🟡 Em andamento |
 | **Quarta** | Monitoria e Web Design | JavaScript e HTML Semântico | 🟡 Em andamento |
 | **Quinta** | JavaScript | Funções e Arrays | 🟡 Em andamento |
