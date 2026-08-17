@@ -4,7 +4,7 @@
 
 | Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
 | :---: | :---: | :---: | :---: |
-| **Segunda** | Banco de Dados | Árvores B+ (atividade) | 🟢 Concluído|
+| **Segunda** | UML e Banco de Dados | Revisão | 🟡 Em andamento |
 | **Terça** | JavaScript | Números e Booleanos | 🟡 Em andamento |
 | **Quarta** | Monitoria e Web Design | JavaScript e HTML Semântico | 🟡 Em andamento |
 | **Quinta** | JavaScript | Funções e Arrays | 🟡 Em andamento |
