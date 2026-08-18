@@ -4,8 +4,8 @@
 
 | Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
 | :---: | :---: | :---: | :---: |
-| **Segunda** | UML e Banco de Dados | Revisão | 🟡 Em andamento |
-| **Terça** | JavaScript | Números e Booleanos | 🟡 Em andamento |
+| **Segunda** | UML e Banco de Dados | Revisão | 🟢 Concluído |
+| **Terça** | JavaScript | Números e Booleanos | 🟢 Concluído |
 | **Quarta** | Monitoria e Web Design | JavaScript e HTML Semântico | 🟡 Em andamento |
 | **Quinta** | JavaScript | Funções e Arrays | 🟡 Em andamento |
 | **Sexta** | Web Design e Grupo de IA | Tabelas e Formulários e Inteligência Artificial | 🟡 Em andamento |
