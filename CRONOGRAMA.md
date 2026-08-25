@@ -4,11 +4,11 @@
 
 | Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
 | :---: | :---: | :---: | :---: |
-| **Segunda** | UML e Banco de Dados | Revisão | 🟢 Concluído |
-| **Terça** | JavaScript | Números e Booleanos | 🟢 Concluído |
-| **Quarta** | Monitoria e Web Design | JavaScript e HTML Semântico | 🟢 Concluído |
-| **Quinta** | UML | Diagrama de Sequência (atividade) | 🟢 Concluído |
-| **Sexta** | JavaScript | Funções | 🟡 Em andamento |
+| **Segunda** | Cálculo Numérico | Lista de Exercícios | 🟢 Concluído |
+| **Terça** | Cálculo Numérico | Lista de Exercícios | 🟢 Concluído |
+| **Quarta** | Monitoria | JavaScript | 🟡 Em andamento |
+| **Quinta** | JavaScript | Funções e Arrays | 🟡 Em andamento |
+| **Sexta** | JavaScript | Objetos e Loops  | 🟡 Em andamento |
 
 ### Durante a semana também irei organizar o GitHub e commitar alguns códigos de bimestres passados, tanto de estudos pessoais quanto de estudos de materias da faculdade.
 
