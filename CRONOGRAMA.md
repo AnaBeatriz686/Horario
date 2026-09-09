@@ -5,7 +5,7 @@
 | Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
 | :---: | :---: | :---: | :---: |
 | **Segunda** | Banco de Dados | Trabalho | 🟢 Concluído |
-| **Terça** | ----------- | --------------- | 🟢 Concluído |
+| **Terça** | ----------- | --------------- | ------------ |
 | **Quarta** | PLP | Atividade | 🟢 Concluído |
 | **Quinta** | Banco de Dados | Trabalho | 🟢 Concluído |
 | **Sexta** | ------------- | --------------  | ------------ |
