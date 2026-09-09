@@ -4,10 +4,10 @@
 
 | Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
 | :---: | :---: | :---: | :---: |
-| **Segunda** | Cálculo Numérico | Lista de Exercícios | 🟢 Concluído |
-| **Terça** | Cálculo Numérico | Lista de Exercícios | 🟢 Concluído |
-| **Quarta** | Monitoria | JavaScript | 🟢 Concluído |
-| **Quinta** | UML e Banco de Dados | Atividade e Revisão | 🟢 Concluído |
+| **Segunda** | Banco de Dados | Trabalho | 🟢 Concluído |
+| **Terça** | ----------- | --------------- | 🟢 Concluído |
+| **Quarta** | PLP | Atividade | 🟢 Concluído |
+| **Quinta** | Banco de Dados | Trabalho | 🟢 Concluído |
 | **Sexta** | ------------- | --------------  | ------------ |
 
 ### Durante a semana também irei organizar o GitHub e commitar alguns códigos de bimestres passados, tanto de estudos pessoais quanto de estudos de materias da faculdade.
