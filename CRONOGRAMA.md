@@ -4,10 +4,10 @@
 
 | Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
 | :---: | :---: | :---: | :---: |
-| **Segunda** | Feriado | ------------- | ------------- |
+| **Segunda** | UML e Banco de Dados | Estudos para Prova | 🟢 Concluído |
 | **Terça** | Estágio | Trabalhos | 🟢 Concluído |
-| **Quarta** | Cálculo e Monitoria | Estudos para Prova e JavaScript | 🟢 Concluído |
-| **Quinta** | Banco de Dados | Trabalho | 🟢 Concluído |
+| **Quarta** | UML e Monitoria | Trabalho e JavaScript | 🟡 Em Andamento |
+| **Quinta** | Estágio | Trabalhos | 🟡 Em Andamento |
 | **Sexta** | ------------- | --------------  | ------------ |
 
 ### Durante a semana também irei organizar o GitHub e commitar alguns códigos de bimestres passados, tanto de estudos pessoais quanto de estudos de materias da faculdade.
