@@ -4,9 +4,9 @@
 
 | Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
 | :---: | :---: | :---: | :---: |
-| **Segunda** | Banco de Dados | Trabalho | 🟢 Concluído |
-| **Terça** | ----------- | --------------- | ------------ |
-| **Quarta** | PLP | Atividade | 🟢 Concluído |
+| **Segunda** | Feriado | ------------- | ------------- |
+| **Terça** | Estágio | Trabalhos | 🟢 Concluído |
+| **Quarta** | Cálculo e Monitoria | Estudos para Prova e JavaScript | 🟢 Concluído |
 | **Quinta** | Banco de Dados | Trabalho | 🟢 Concluído |
 | **Sexta** | ------------- | --------------  | ------------ |
 
