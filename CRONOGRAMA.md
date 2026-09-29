@@ -4,7 +4,7 @@
 
 | Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
 | :---: | :---: | :---: | :---: |
-| **Segunda** | Aluno Tutor | Atividades | 🟡 Em Andamento |
+| **Segunda** | Aluno Tutor | Atividades | 🟢 Concluído |
 | **Terça** | Aluno Tutor | Atividades | 🟡 Em Andamento |
 | **Quarta** | Monitoria | JavaScript | 🟡 Em Andamento |
 | **Quinta** |  |  | 🟡 Em Andamento |
